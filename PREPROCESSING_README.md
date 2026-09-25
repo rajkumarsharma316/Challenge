@@ -15,8 +15,8 @@ Cleaned business name and address columns from all 3 sources (train + test).
 - clean_name
 - clean_address
 
-## Preprocessed files
-Available on Google Drive: (link here)
+## Preprocessed files (Google Drive)
+https://drive.google.com/drive/folders/1RpHLzByXAhlUlfZWxr952pkYkOC6yg9r?usp=drive_link
 
 ## Code
 src/preprocessing.py
